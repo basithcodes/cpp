@@ -1,0 +1,5 @@
+set(EXECUTABLE_SOURCES
+main.cpp)
+
+add_executable(${EXECUTABLE_NAME} ${EXECUTABLE_SOURCES})
+

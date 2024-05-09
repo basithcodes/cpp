@@ -1,6 +1,6 @@
 #include <iostream>
 #include <list>
-#include "feature-1/feature.h"
+#include "../feature_1/feature.h"
 
 using namespace std;
 

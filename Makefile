@@ -1,5 +1,5 @@
-executable = main
-SOURCE+=./ ./feature-1/
+executable=main
+SOURCE=./
 BUILD=build
 all:
 	cmake -S ${SOURCE} -B ${BUILD}
